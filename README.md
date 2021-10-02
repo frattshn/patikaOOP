@@ -21,3 +21,12 @@
 - Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
 
 [![image](https://github.com/frattshn/patikaOOP/blob/main/zooManagement.jpg)](https://github.com/frattshn/patikaOOP/blob/main/zooManagement.jpg)
+
+#### 3- Online Film Sistemi
+- Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+- Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+- Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+- Normal kullanıcılar ve aboneler film satın alabilirler.
+
+[![image](https://github.com/frattshn/patikaOOP/blob/main/onlineMovieSystem.jpg)](https://github.com/frattshn/patikaOOP/blob/main/onlineMovieSystem.jpg)
+
